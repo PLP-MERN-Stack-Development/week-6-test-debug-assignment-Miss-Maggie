@@ -40,7 +40,7 @@ Implement comprehensive testing strategies for a MERN stack application, includi
 - Use browser developer tools for client-side debugging
 - Create a global error handler for the Express server
 - Implement performance monitoring and optimization
-
+                       
 ## 🧪 Expected Outcome
 - A comprehensive test suite for a MERN stack application
 - Well-documented testing strategies and methodologies
